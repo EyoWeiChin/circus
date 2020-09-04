@@ -33,9 +33,9 @@ public class Circus {
             } else {
                 total += a.getValue();
                 System.out.println("Adding item value: " + a.getValue());
-                // some 
+                // some
                 // more
-                // code 
+                // code
                 // here ...
             }
         }
