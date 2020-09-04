@@ -1,1 +1,1 @@
-# The Circus Project
+# The circus Project
